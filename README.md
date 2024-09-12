@@ -73,3 +73,14 @@ numpy>=1.18.0
 scipy>=1.4.0
 scikit-learn>=0.22.0
 ```
+
+## Contributing
+
+Contributions are welcome! If you find a bug or want to add a feature, feel free to fork the repository and create a pull request. Make sure to run the tests before submitting your PR.
+
+## Contact Information
+
+For any questions or inquiries, feel free to reach out:
+
+- Name: **UBANDIYA Najib Yusuf**
+- Email: **najibubandia@gmail.com**
